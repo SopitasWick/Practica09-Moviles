@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "163435136500",
+    "firebase_url": "https://practica9-cf6cc-default-rtdb.firebaseio.com",
+    "project_id": "practica9-cf6cc",
+    "storage_bucket": "practica9-cf6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163435136500:android:09625cc08ff791a146e5a1",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.practica09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0-cbjF8ZRhpJ91boPURzICxGyUJK_EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163435136500:android:54100d9da8d7737746e5a1",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0-cbjF8ZRhpJ91boPURzICxGyUJK_EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
